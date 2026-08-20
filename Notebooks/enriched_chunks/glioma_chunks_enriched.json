@@ -1,0 +1,266 @@
+[
+    {
+        "page_content": "[Context: This covers Overview where glioma is a glial cell tumor that can be benign or malignant, affecting brain/spinal cord.]\nOverview\nGlioma is a growth of cells that starts in the brain or spinal cord.\nThe cells in a glioma look similar to healthy brain cells called glial cells.\nGlial cells surround nerve cells and help them function.\nAs a glioma grows it forms a mass of cells called a tumor.\nThe tumor can grow to press on brain or spinal cord tissue and cause symptoms.\nSymptoms depend on which part of the brain or spinal cord is affected.\nThere are many types of glioma.\nSome grow slowly and aren't considered to be cancers.\nOthers are considered cancerous.\nAnother word for cancerous is malignant.\nMalignant gliomas grow quickly and can invade healthy brain tissue.\nSome types of glioma happen mostly in adults.\nOthers happen mostly in kids.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Overview",
+            "subsection": 101,
+            "chunk_id": 0
+        },
+        "enrichments": {
+            "context_summary": "This covers Overview where glioma is a glial cell tumor that can be benign or malignant, affecting brain/spinal cord."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Overview where glioma type informs seriousness and guides treatment options like surgery, radiation, and chemotherapy.]\nOthers happen mostly in kids.\nThe type of glioma you have helps your health care team understand how serious your condition is and what treatments might work best.\nIn general, glioma treatment options include surgery, radiation therapy, chemotherapy and others.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Overview",
+            "subsection": 101,
+            "chunk_id": 1
+        },
+        "enrichments": {
+            "context_summary": "This covers Overview where glioma type informs seriousness and guides treatment options like surgery, radiation, and chemotherapy."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Symptoms where glioma signs vary by location, type, size, growth, including headache, nausea, seizures.]\nSymptoms\nGlioma symptoms depend on the location of the glioma.\nSymptoms also may depend on the type of glioma, its size and how quickly it's growing.\nCommon signs and symptoms of gliomas include:\nHeadache, particularly one that hurts the most in the morning.\nNausea and vomiting.\nConfusion or a decline in brain function, such as problems with thinking and understanding information.\nMemory loss.\nPersonality changes or irritability.\nVision problems, such as blurred vision, double vision or loss of peripheral vision.\nSpeech difficulties.\nSeizures, especially in someone who hasn't had seizures before.\nMake an appointment with your health care provider if you have any signs and symptoms that worry you.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Symptoms",
+            "subsection": 101,
+            "chunk_id": 2
+        },
+        "enrichments": {
+            "context_summary": "This covers Symptoms where glioma signs vary by location, type, size, growth, including headache, nausea, seizures."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Causes where glioma arises from DNA mutations causing uncontrolled proliferation and tumor formation.]\nCauses\nDoctors aren't sure what causes glioma.\nIt starts when cells in the brain or spinal cord develop changes in their DNA.\nA cell's DNA contains the instructions that tell a cell what to do.\nThe DNA changes tell the cells to make more cells quickly.\nThe cells continue living when healthy cells would die.\nThis causes too many cells that don't work right.\nThe cells form a mass called a tumor.\nThe tumor can grow to press on nearby nerves and parts of the brain or spinal cord.\nThis leads to glioma symptoms and can cause complications.\nSome gliomas develop more changes in their DNA that cause them to become brain cancers.\nThe changes tell the cells to invade and destroy healthy brain tissue.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Causes",
+            "subsection": 101,
+            "chunk_id": 3
+        },
+        "enrichments": {
+            "context_summary": "This covers Causes where glioma arises from DNA mutations causing uncontrolled proliferation and tumor formation."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Causes where glioma tumor cells resemble glial cells that support nerve cells.]\nIn glioma, the tumor cells look similar to healthy brain cells called glial cells.\nThe glial cells surround and support nerve cells in the brain and spinal cord.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Causes",
+            "subsection": 101,
+            "chunk_id": 4
+        },
+        "enrichments": {
+            "context_summary": "This covers Causes where glioma tumor cells resemble glial cells that support nerve cells."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Risk factors where older age, ionizing radiation, and rare familial predisposition raise glioma risk.]\nRisk factors\nThings that can increase the risk of glioma include:\nGetting older.Gliomas are most common in adults between ages 45 and 65 years old.\nBut glioma can happen at any age.\nCertain types of gliomas are more common in children and young adults.\nBeing exposed to radiation.People who have been exposed to a type of radiation called ionizing radiation have an increased risk of glioma.\nOne example of ionizing radiation is radiation therapy used to treat cancer.\nHaving a family history of glioma.Glioma can run in families, but this is very rare.\nMore research is needed to understand whether parents can pass a risk of glioma to their children.\nResearchers haven't found anything you can do to prevent glioma.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Risk factors",
+            "subsection": 101,
+            "chunk_id": 5
+        },
+        "enrichments": {
+            "context_summary": "This covers Risk factors where older age, ionizing radiation, and rare familial predisposition raise glioma risk."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Diagnosis where brain tumor evaluation involves biopsy, neurological exam, and imaging (CT, PET) to assess tissue and function.]\nA procedure to get a sample of tissue for testing.Sometimes a procedure called a biopsy is needed to remove some of the tissue for testing before treatment begins.\nIt's used when surgery isn't an option for removing the brain tumor.\nIf you will have surgery to remove your brain tumor, you might not need a biopsy before your surgery.\nAn exam to test your nerves and brain function.A neurological exam involves checking your vision, hearing, balance, coordination, strength and reflexes.\nIf there's difficulty with a certain task, it might be a clue that there could be a brain tumor.\nBrain tumor imaging.\nOther imaging tests may includeCTand positron emission tomography, which is also called aPETscan.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Diagnosis",
+            "subsection": "Brain tumor MRI image",
+            "chunk_id": 6
+        },
+        "enrichments": {
+            "context_summary": "This covers Diagnosis where brain tumor evaluation involves biopsy, neurological exam, and imaging (CT, PET) to assess tissue and function."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Diagnosis where glioma is diagnosed via lab tests, MRI, and tissue analysis to determine type and growth.]\nTests and procedures used to diagnose glioma include:\nTests in the lab can determine if you have a glioma and what type you have.\nOther tests might show how quickly the glioma cells are growing.\nAdvanced tests look at what DNA changes are present in the glioma cells.\nThe test results help your health care team confirm your diagnosis and create a treatment plan.\nTests on tumor cells.A sample of the brain tumor may be sent to a lab for testing.\nThe sample can come from a biopsy procedure.\nOr the sample can be taken during surgery to remove the glioma.\nTests to make pictures of the brain.Imaging tests create pictures of your brain to look for signs of a brain tumor.MRIis the imaging test used most often.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Diagnosis",
+            "subsection": "Brain tumor MRI image",
+            "chunk_id": 7
+        },
+        "enrichments": {
+            "context_summary": "This covers Diagnosis where glioma is diagnosed via lab tests, MRI, and tissue analysis to determine type and growth."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Diagnosis where stereotactic needle biopsy guided by imaging and contrast injection is used to obtain tissue for pathologic analysis.]\nSometimes you have an injection of dye in a vein before yourMRI.\nThis helps create better pictures.\nThe sample is sent to a lab where it's tested by doctors who specialize in analyzing blood and body tissue.\nThese doctors are called pathologists.\nTo get the tissue sample, a needle might be used.\nThe needle is guided by imaging tests.\nThis procedure is called stereotactic needle biopsy.\nDuring the procedure, a small hole is made in the skull.\nA thin needle is then inserted through the hole.\nTissue is removed using the needle and sent to a lab for testing.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Diagnosis",
+            "subsection": "Brain tumor MRI image",
+            "chunk_id": 8
+        },
+        "enrichments": {
+            "context_summary": "This covers Diagnosis where stereotactic needle biopsy guided by imaging and contrast injection is used to obtain tissue for pathologic analysis."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where glioma management involves surgery, radiation, or chemotherapy based on tumor characteristics and patient factors.]\nGlioma treatment usually begins with surgery.\nBut surgery isn't always an option.\nFor example, if the glioma grows into important parts of the brain, it might be too risky to remove all of the glioma.\nOther treatments, such as radiation therapy and chemotherapy, might be recommended as the first treatment.\nWhich treatments are best for you will depend on your particular situation.\nYour health care team considers the type of glioma, its size and where it's located in the brain.\nYour treatment plan also depends on your health and your preferences.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": 101,
+            "chunk_id": 9
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where glioma management involves surgery, radiation, or chemotherapy based on tumor characteristics and patient factors."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where glioma symptoms are managed with anticonvulsants, cognitive enhancers, stimulants, and steroids to reduce edema.]\nIf your glioma is causing symptoms, you might need medicine to make you more comfortable.\nWhich medications you need depends on your situation.\nOptions might include:\nMedicine to control seizures.\nMedicine to help with thinking and memory problems.\nMedicine to improves alertness if you have severe fatigue.\nSteroid medicines to reduce brain swelling.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Treatments to control symptoms",
+            "chunk_id": 10
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where glioma symptoms are managed with anticonvulsants, cognitive enhancers, stimulants, and steroids to reduce edema."
+        }
+    },
+    {
+        "page_content": "[Context: Glioma surgery, including subtotal resection, to remove tumor and alleviate symptoms, with infection and bleeding risks.]\nGlioma treatment usually starts with an operation to remove the glioma.\nSurgery might be the only treatment needed if all of the glioma is removed.\nSometimes the glioma can't be removed completely.\nThe surgeon may remove as much of the glioma as is possible.\nThis procedure is sometimes called a subtotal resection.\nIt might be needed if the glioma can't easily be separated from the healthy brain tissue.\nIt can also happen if the glioma is in a sensitive part of the brain.\nEven removing a portion of the tumor may help reduce your symptoms.\nSurgery to remove a glioma carries risks.\nThese include infection and bleeding.\nOther risks may depend on the part of your brain in which your tumor is located.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Surgery",
+            "chunk_id": 11
+        },
+        "enrichments": {
+            "context_summary": "Glioma surgery, including subtotal resection, to remove tumor and alleviate symptoms, with infection and bleeding risks."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where surgery near optic nerves carries risk of vision loss.]\nFor instance, surgery on a tumor near nerves that connect to your eyes may carry a risk of vision loss.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Surgery",
+            "chunk_id": 12
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where surgery near optic nerves carries risk of vision loss."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where radiation therapy targets glioma cells with precise energy beams, often post-surgery or combined with chemo.]\nDuring radiation therapy, you lie on a table while a machine aims energy beams at specific points on your head.\nThe beams are carefully programmed to deliver precise amounts of radiation to the glioma.\nA common schedule for radiation therapy is having treatments five days a week for a few weeks.\nFor glioma treatment, radiation therapy is often used after surgery.\nThe radiation kills any glioma cells that might remain after surgery.\nRadiation is often combined with chemotherapy.\nRadiation therapy might be the first glioma treatment if surgery isn't an option.\nRadiation uses beams of powerful energy to kill tumor cells.\nThe energy can come from X-rays, protons or other sources.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 13
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where radiation therapy targets glioma cells with precise energy beams, often post-surgery or combined with chemo."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where side effects of radiation therapy depend on type and dose, including fatigue, scalp irritation, hair loss.]\nSide effects of radiation therapy depend on the type and dose of radiation you receive.\nCommon side effects that happen during or soon after radiation include fatigue, scalp irritation and hair loss.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 14
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where side effects of radiation therapy depend on type and dose, including fatigue, scalp irritation, hair loss."
+        }
+    },
+    {
+        "page_content": "[Context: Chemotherapy combined with radiation for glioma: drug-induced tumor cell death, oral/IV or direct, with nausea, hair loss]\nChemotherapy is usually used in combination with radiation therapy to treat gliomas.\nChemotherapy uses drugs to kill tumor cells.\nChemotherapy medicines are most often taken in pill form or injected into a vein.\nIn certain situations, the chemotherapy can be applied directly to the glioma cells.\nSide effects of chemotherapy depend on the type and dose of medicines you receive.\nCommon side effects include nausea and vomiting, hair loss, fever and feeling very tired.\nSome side effects may be managed with medication.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Chemotherapy",
+            "chunk_id": 15
+        },
+        "enrichments": {
+            "context_summary": "Chemotherapy combined with radiation for glioma: drug-induced tumor cell death, oral/IV or direct, with nausea, hair loss"
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where tumor treating fields therapy uses electrical energy to damage glioblastoma cells.]\nDuring this treatment, sticky pads are attached to the scalp.\nYou might need to shave your head so the pads can stick.\nWires connect the pads to a portable device.\nThe device generates an electrical field that hurts the glioma cells.\nSide effects of tumor treating fields therapy include skin irritation where the pads are applied to the scalp.\nTumor treating fields therapy is a treatment that uses electrical energy to hurt the glioma cells.\nThe treatment makes it hard for the cells to make new glioma cells.\nTumor treating fields therapy is used to treat an aggressive type of glioma called glioblastoma.\nThis treatment is often done at the same time as chemotherapy.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Tumor treating fields therapy",
+            "chunk_id": 16
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where tumor treating fields therapy uses electrical energy to damage glioblastoma cells."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where targeted therapy blocks glioma cell chemicals to induce cell death.]\nSide effects depend on the medicine used and the dose given.\nTargeted therapy treatments focus on specific chemicals present within cancer cells.\nBy blocking these chemicals, targeted therapy treatments can cause cancer cells to die.\nYour glioma cells may be tested to see if targeted therapy might help you.\nFor slow-growing gliomas, targeted therapy is sometimes used after surgery if the glioma can't be removed completely.\nFor other gliomas, targeted therapy might be an option if other treatments haven't worked.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Targeted therapy",
+            "chunk_id": 17
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where targeted therapy blocks glioma cell chemicals to induce cell death."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where glioma therapy impairs motor, speech, and cognition, and rehab therapies aid recovery.]\nGlioma and glioma treatment can hurt parts of the brain that help you move your body and control your thinking.\nAfter treatment you might need help to regain your ability to move, speak, see and think clearly.\nTreatments that might help include:\nOccupational therapy,which can help you get back to your daily activities, including work, after a brain tumor or other illness.\nPhysical therapy after glioma treatment can help you regain lost motor skills or muscle strength.\nPhysical therapy,which can help you regain lost motor skills or muscle strength.\nSpeech therapy,which can help if you have difficulty speaking.\nTutoring for school-age children,which can help kids cope with changes in memory and thinking after a brain tumor.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Treatment",
+            "subsection": "Physical therapy session",
+            "chunk_id": 18
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where glioma therapy impairs motor, speech, and cognition, and rehab therapies aid recovery."
+        }
+    },
+    {
+        "page_content": "[Context: Complementary treatments for glioma to aid coping and support alongside conventional therapy]\nAcupuncture.\nAsk your health care team if you're interested in trying complementary treatments such as:\nHypnosis.\nLittle research has been done on complementary and alternative glioma treatments.\nNo alternative treatments have been proved to cure gliomas.\nHowever, complementary treatments may help you cope with your glioma and its treatment.\nComplementary treatments also are called integrative treatments.\nThey can be used at the same time as traditional treatments, such as surgery, radiation therapy and chemotherapy.\nMeditation.\nMusic therapy.\nRelaxation exercises.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Alternative medicine",
+            "subsection": 101,
+            "chunk_id": 19
+        },
+        "enrichments": {
+            "context_summary": "Complementary treatments for glioma to aid coping and support alongside conventional therapy"
+        }
+    },
+    {
+        "page_content": "[Context: Coping with glioma diagnosis via emotional support, counseling, and support groups.]\nA glioma diagnosis can be overwhelming and frightening.\nIt can make you feel like you have little control over your health.\nBut you can take steps to cope with the shock and grief that may come after your diagnosis.\nConsider trying to:\nFind someone to talk with.Find a good listener who is willing to listen to you talk about your hopes and fears.\nThis may be a friend or family member.\nThe concern and understanding of a counselor, medical social worker, clergy member or cancer support group also may be helpful.\nAsk your health care team about support groups in your area.\nOr connect with others online through groups, such as the National Brain Tumor Society and others.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Coping and support",
+            "subsection": 101,
+            "chunk_id": 20
+        },
+        "enrichments": {
+            "context_summary": "Coping with glioma diagnosis via emotional support, counseling, and support groups."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Coping and support where close relationships offer practical and emotional aid, and glioma knowledge empowers treatment decisions.]\nKeep friends and family close.Keeping your close relationships strong will help you deal with your brain tumor.\nFriends and family can provide the practical support you'll need, such as helping take care of your home if you're in the hospital.\nAnd they can serve as emotional support when you feel overwhelmed by cancer.\nLearn enough about gliomas to make decisions about your care.Ask your health care team about your specific type of brain tumor, including your treatment options and, if you like, your prognosis.\nAs you learn more about brain tumors, you may become more confident in making treatment decisions.",
+        "metadata": {
+            "tumor_type": "glioma",
+            "section": "Coping and support",
+            "subsection": 101,
+            "chunk_id": 21
+        },
+        "enrichments": {
+            "context_summary": "This covers Coping and support where close relationships offer practical and emotional aid, and glioma knowledge empowers treatment decisions."
+        }
+    }
+]

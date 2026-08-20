@@ -1,0 +1,556 @@
+[
+    {
+        "page_content": "[Context: This covers Overview1 where pituitary tumors are benign growths in the pituitary gland that alter hormone levels.]\nPituitary tumors are tumors that form in the pituitary gland near the brain.\nThese tumors can cause changes in hormone levels.\nThis illustration shows a smaller tumor, called a microadenoma.\nPituitary tumors are unusual growths that develop in the pituitary gland.\nThis gland is an organ about the size of a pea.\nIt's located behind the nose at the base of the brain.\nSome of these tumors cause the pituitary gland to make too much of certain hormones that control important body functions.\nOthers can cause the pituitary gland to make too little of those hormones.\nMost pituitary tumors are benign.\nThat means they are not cancer.\nAnother name for these noncancerous tumors is pituitary adenomas.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Overview1",
+            "subsection": "Pituitary tumor",
+            "chunk_id": 0
+        },
+        "enrichments": {
+            "context_summary": "This covers Overview1 where pituitary tumors are benign growths in the pituitary gland that alter hormone levels."
+        }
+    },
+    {
+        "page_content": "[Context: Treatment options for pituitary adenomas: surgery, medication, radiation, hormone management, or observation.]\nMost adenomas stay in the pituitary gland or in the tissue around it, and they grow slowly.\nThey typically don't spread to other parts of the body.\nPituitary tumors can be treated in several ways.\nThe tumor may be removed with surgery.\nOr its growth may be controlled with medications or radiation therapy.\nSometimes, hormone levels are managed with medicine.\nYour health care provider may suggest a combination of these treatments.\nIn some cases, observation \u00e2\u20ac\u201d also called a ''wait-and-see'' approach \u00e2\u20ac\u201d may be the right choice.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Overview1",
+            "subsection": "Pituitary tumor",
+            "chunk_id": 1
+        },
+        "enrichments": {
+            "context_summary": "Treatment options for pituitary adenomas: surgery, medication, radiation, hormone management, or observation."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Overview2 where pituitary adenomas are classified by hormone secretion, including ACTH, GH, and gonadotropins.]\nTypes of pituitary adenomas include:\nFunctioning.These adenomas make hormones.\nThey cause different symptoms depending on the kind of hormones they make.\nFunctioning pituitary adenomas fall into several categories, including those that make:Adrenocorticotropic hormone.This hormone also is known as ACTH.\nThese tumors are sometimes called corticotroph adenomas.Growth hormone.These tumors are called somatotroph adenomas.Luteinizing hormone and follicle-stimulating hormone.These hormones also are known as gonadotropins.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Overview2",
+            "subsection": "Types",
+            "chunk_id": 2
+        },
+        "enrichments": {
+            "context_summary": "This covers Overview2 where pituitary adenomas are classified by hormone secretion, including ACTH, GH, and gonadotropins."
+        }
+    },
+    {
+        "page_content": "[Context: Classification of pituitary adenomas by hormone type and size, noting pressure-induced symptoms.]\nPituitary tumors that make these hormones are called gonadotroph adenomas.Prolactin.These tumors are called prolactinomas or lactotroph adenomas.Thyroid-stimulating hormone.These tumors are called thyrotroph adenomas.; Nonfunctioning.These adenomas don't make hormones.\nThe symptoms they cause are related to the pressure their growth puts on the pituitary gland, nearby nerves and the brain.; Macroadenomas.These are larger adenomas.\nThey measure about 1 centimeter or more.\nThat's slightly less than a half-inch.\nThey can be functioning or nonfunctioning.; Microadenomas.These adenomas are smaller.\nThey measure less than 1 centimeter.\nThat's slightly less than a half-inch.\nThey can be functioning or nonfunctioning.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Overview2",
+            "subsection": "Types",
+            "chunk_id": 3
+        },
+        "enrichments": {
+            "context_summary": "Classification of pituitary adenomas by hormone type and size, noting pressure-induced symptoms."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Overview where pituitary hormone-producing tumors are classified by hormone type and named accordingly.]\nAdrenocorticotropic hormone.This hormone also is known as ACTH.\nThese tumors are sometimes called corticotroph adenomas.; Growth hormone.These tumors are called somatotroph adenomas.; Luteinizing hormone and follicle-stimulating hormone.These hormones also are known as gonadotropins.\nPituitary tumors that make these hormones are called gonadotroph adenomas.; Prolactin.These tumors are called prolactinomas or lactotroph adenomas.; Thyroid-stimulating hormone.These tumors are called thyrotroph adenomas.\nPituitary tumors are different from pituitary cysts.\nA cyst is a sac that may be filled with air, fluid or other material.\nA tumor is an unusual mass of cells that may grow over time.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Overview",
+            "subsection": "Types",
+            "chunk_id": 4
+        },
+        "enrichments": {
+            "context_summary": "This covers Overview where pituitary hormone-producing tumors are classified by hormone type and named accordingly."
+        }
+    },
+    {
+        "page_content": "[Context: Cysts can develop adjacent to the pituitary gland, distinct from tumors or adenomas.]\nCysts may form on or near the pituitary gland, but they are not tumors or adenomas.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Overview",
+            "subsection": "Types",
+            "chunk_id": 5
+        },
+        "enrichments": {
+            "context_summary": "Cysts can develop adjacent to the pituitary gland, distinct from tumors or adenomas."
+        }
+    },
+    {
+        "page_content": "[Context: Pituitary tumors may be asymptomatic or cause symptoms via mass effect or hormone imbalance, depending on size and hormone production.]\nNot all pituitary tumors cause symptoms.\nSometimes these tumors are found during an imaging test, such as anMRIor aCTscan, that is done for another reason.\nIf they don't cause symptoms, pituitary tumors usually don't need treatment.\nPituitary tumor symptoms may be caused by a tumor putting pressure on the brain or on other parts of the body nearby.\nSymptoms also can be caused by a hormone imbalance.\nHormone levels can rise when a pituitary tumor makes too much of one or more hormones.\nOr a large tumor that disrupts the way the pituitary gland works may cause hormone levels to fall.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Symptoms",
+            "subsection": 101,
+            "chunk_id": 6
+        },
+        "enrichments": {
+            "context_summary": "Pituitary tumors may be asymptomatic or cause symptoms via mass effect or hormone imbalance, depending on size and hormone production."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Symptoms where macroadenomas compress pituitary and nerves, causing headache, visual loss, facial pain, eyelid droop, seizures, nausea]\nMacroadenomas can put pressure on the pituitary gland, on nerves, on the brain and on other parts of the body nearby.\nThat can cause symptoms such as:\nHeadache.; Eye problems due to pressure on the optic nerve, especially loss of side vision, also called peripheral vision, and double vision.; Pain in the face, sometimes including sinus pain or ear pain.; Drooping eyelid.; Seizures.; Nausea and vomiting.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Symptoms",
+            "subsection": "Symptoms from tumor pressure",
+            "chunk_id": 7
+        },
+        "enrichments": {
+            "context_summary": "This covers Symptoms where macroadenomas compress pituitary and nerves, causing headache, visual loss, facial pain, eyelid droop, seizures, nausea"
+        }
+    },
+    {
+        "page_content": "[Context: This covers Symptoms where functioning pituitary adenomas overproduce hormones or exert pressure, causing hormone-specific or mass effect symptoms.]\nFunctioning pituitary adenomas typically make a large amount of one hormone.\nThat exposes the body to high levels of that hormone.\nRarely, a pituitary adenoma may make more than one hormone.\nThe following types of functioning pituitary adenomas cause different symptoms depending on the hormones they make.\nLuteinizing hormone (LH) and follicle-stimulating hormone (FSH) are also known as gonadotropins.\nPituitary tumors that make these hormones are called gonadotroph adenomas.\nIt's uncommon for these adenomas to make too many hormones that then trigger symptoms.\nInstead, symptoms from these adenomas usually are due to tumor pressure.\nIf symptoms do happen because of too muchLHandFSH, they affect women and men differently.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Symptoms",
+            "subsection": "Symptoms from hormone changes",
+            "chunk_id": 8
+        },
+        "enrichments": {
+            "context_summary": "This covers Symptoms where functioning pituitary adenomas overproduce hormones or exert pressure, causing hormone-specific or mass effect symptoms."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Symptoms where pituitary macroadenomas impair hormone production causing menstrual changes, and hormonal imbalances affect reproductive health.]\nSymptoms in women may include:\nChange in menstrual cycles.\nFertility problems.\nEnlargement of and pain in the ovaries caused by a condition called ovarian hyperstimulation syndrome.\nSymptoms in men may include:\nLow testosterone levels (hypogonadism).\nReduced sperm count or fertility issues.\nMacroadenomas can limit the pituitary gland's ability to make hormones.\nWhen that happens, symptoms may include:\nTiredness or weakness.\nLack of energy.\nSexual problems, such as problems with erections and less interest in sex.\nChanges in menstrual cycles.\nNausea.\nFeeling cold.\nLosing or gaining weight without trying.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Symptoms",
+            "subsection": "Symptoms from hormone changes",
+            "chunk_id": 9
+        },
+        "enrichments": {
+            "context_summary": "This covers Symptoms where pituitary macroadenomas impair hormone production causing menstrual changes, and ovarian hyperstimulation syndrome leads to ovarian enlargement."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Symptoms where TSH\u2011secreting pituitary adenomas cause hyperthyroidism via excess T4, producing metabolic and neuro\u2011vegetative signs.]\nPituitary tumors that make thyroid-stimulating hormone are called thyrotroph adenomas.\nThey also may be referred to as thyroid-stimulating hormone-secreting tumors.\nThey cause the thyroid gland to make too much of the hormone thyroxine, also called T-4.\nThat leads to a condition called hyperthyroidism, also known as overactive thyroid disease.\nHyperthyroidism can speed up the body's metabolism causing many symptoms.\nSome of the most common include:\nWeight loss.; Rapid or irregular heartbeat.; Nervousness, anxiety or irritability.; Frequent bowel movements.; Sweating.; Tremor.; Sleep problems.\nSymptoms of acromegaly include an enlarged face and hands.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Symptoms",
+            "subsection": "Symptoms from hormone changes",
+            "chunk_id": 10
+        },
+        "enrichments": {
+            "context_summary": "This covers Symptoms where TSH\u2011secreting pituitary adenomas cause hyperthyroidism via excess T4, producing metabolic and neuro\u2011vegetative signs."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Symptoms where prolactinomas cause hyperprolactinemia, lowering sex hormones and producing menstrual, fertility, and sexual dysfunction.]\nChanges to the face may cause the brow bone and lower jaw to jut out, and the nose and lips to get larger.\nThese adenomas are called prolactinomas.\nToo much of the hormone prolactin can lead to a decrease in the body's levels of sex hormones \u00e2\u20ac\u201d estrogen and testosterone.\nToo much prolactin affects men and women differently.\nIn women, too much prolactin might cause:\nIrregular menstrual cycles.; Lack of menstrual cycles.; Milky discharge from the breasts.; Breast tenderness.; Problems with fertility.; Less interest in sex.\nIn men, too much prolactin can cause a condition called male hypogonadism.\nSymptoms might include:\nProblems with erections.; Less interest in sex.; Breast growth.; Problems with fertility.; Less body and facial hair.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Symptoms",
+            "subsection": "Symptoms from hormone changes",
+            "chunk_id": 11
+        },
+        "enrichments": {
+            "context_summary": "This covers Symptoms where prolactinomas cause hyperprolactinemia, lowering sex hormones and producing menstrual, fertility, and sexual dysfunction."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Symptoms where pituitary tumors cause hormone imbalance, treatable to restore levels, and hereditary MEN1 predisposes to such tumors.]\nIf you develop symptoms that might be associated with a pituitary tumor, see your health care provider.\nTreatment for pituitary tumors often can bring hormones back to a healthy level and ease symptoms.\nAlthough rare, some pituitary tumors are hereditary.\nThat means they run in families.\nIn particular, the hereditary disorder multiple endocrine neoplasia, type 1 (MEN 1) can cause pituitary tumors.\nIfMEN 1runs in your family, talk to your health care provider about tests that may help find a pituitary tumor early.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Symptoms",
+            "subsection": "When to see a doctor",
+            "chunk_id": 12
+        },
+        "enrichments": {
+            "context_summary": "This covers Symptoms where pituitary tumors cause hormone imbalance, treatable to restore levels, and hereditary MEN1 predisposes to such tumors."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Causes where pituitary tumor etiology is largely unknown, with rare inherited genetic causes.]\nThe pituitary gland and the hypothalamus are in the brain.\nThey make hormones that control many important functions in the body.\nThe pituitary gland is a small organ about the size of a pea.\nIt's located behind the nose at the base of the brain.\nDespite its small size, the pituitary gland has an effect on nearly every part of the body.\nThe hormones it makes control important body functions, such as growth, blood pressure and reproduction.\nThe cause of uncontrolled cell growth in the pituitary gland, which creates a tumor, remains unknown.\nIn rare cases, pituitary tumors can be caused by genes you've inherited.\nBut most have no clear hereditary cause.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Causes",
+            "subsection": "Pituitary gland and hypothalamus",
+            "chunk_id": 13
+        },
+        "enrichments": {
+            "context_summary": "This covers Causes where pituitary tumor etiology is largely unknown, with rare inherited genetic causes."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Causes where genetic alterations may contribute to pituitary tumor development.]\nBut most have no clear hereditary cause.\nStill, scientists think that changes in genes may play an important role in how pituitary tumors develop.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Causes",
+            "subsection": "Pituitary gland and hypothalamus",
+            "chunk_id": 14
+        },
+        "enrichments": {
+            "context_summary": "This covers Causes where genetic alterations may contribute to pituitary tumor development."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Risk factors where hereditary conditions (MEN1, MEN4, Carney, McCune-Albright) are the only known risk factors for pituitary tumors.]\nMost people who get pituitary tumors don't have any factors that put them at higher risk of developing these tumors.\nEnvironment and lifestyle choices don't seem to have an effect on a person's risk of pituitary tumors.\nAlthough genetics seems to play a role, most people who have pituitary tumors don't have a family history of them.\nThe only known risk factors are several rare hereditary conditions that raise the risk of many health problems, including pituitary tumors.\nThese conditions include:\nMultiple endocrine neoplasia, type 1, also called MEN 1.; Multiple endocrine neoplasia, type 4, also called MEN 4.; Carney complex.; McCune-Albright syndrome.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Risk factors",
+            "subsection": 101,
+            "chunk_id": 15
+        },
+        "enrichments": {
+            "context_summary": "This covers Risk factors where hereditary conditions (MEN1, MEN4, Carney, McCune-Albright) are the only known risk factors for pituitary tumors."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Complications where pituitary tumors cause visual loss, hypertension, hyperglycemia, osteoporosis, cardiac issues, and cognitive deficits.]\nPituitary tumors usually don't spread to other parts of the body.\nThey can affect a person's health, though.\nPituitary tumors may cause:\nProblems with eyesight, including vision loss.; High blood pressure.; High blood sugar.; Bone loss.; Heart problems.; Problems with thinking and memory.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Complications",
+            "subsection": 101,
+            "chunk_id": 16
+        },
+        "enrichments": {
+            "context_summary": "This covers Complications where pituitary tumors cause visual loss, hypertension, hyperglycemia, osteoporosis, cardiac issues, and cognitive deficits."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Complications where pituitary tumor compression of medial temporal lobe causes focal seizures with impaired awareness.]\nIf a pituitary tumor presses on part of the brain called the medial temporal lobe, it may lead to a seizure.\nThis type of seizure is known as a focal seizure with impaired awareness.\nThese seizures involve a change in or loss of consciousness or awareness.\nIf you have one of these seizures, you may seem to be awake.\nBut you stare into space and don't respond as you typically would to the environment around you.\nYou may not remember the seizure after it happens.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Complications",
+            "subsection": "Seizures",
+            "chunk_id": 17
+        },
+        "enrichments": {
+            "context_summary": "This covers Complications where pituitary tumor compression of medial temporal lobe causes focal seizures with impaired awareness."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Complications where pituitary tumor removal causes permanent hormone deficiency requiring lifelong replacement therapy.]\nHaving a pituitary tumor or having one removed with surgery may permanently change your body's hormone supply.\nAs a result, you may need hormone replacement therapy for the rest of your life.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Complications",
+            "subsection": "Permanent low hormone levels",
+            "chunk_id": 18
+        },
+        "enrichments": {
+            "context_summary": "This covers Complications where pituitary tumor removal causes permanent hormone deficiency requiring lifelong replacement therapy."
+        }
+    },
+    {
+        "page_content": "[Context: Pituitary apoplexy: sudden tumor hemorrhage causing severe headache, visual loss, nausea, confusion, treated emergently with steroids and surgery.]\nA rare but potentially serious complication of a pituitary tumor is pituitary apoplexy.\nThis happens when there is sudden bleeding into the tumor.\nSymptoms include:\nA severe headache, likely worse than you've ever had before.; Problems with your eyesight, including double vision or loss of vision in one or both eyes.; Nausea and vomiting.; Confusion or other reduced mental function.\nPituitary apoplexy requires emergency treatment.\nThe treatment usually includes taking corticosteroid medicine to ease swelling around the tumor.\nYou also may need surgery to remove the tumor.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Complications",
+            "subsection": "Pituitary apoplexy",
+            "chunk_id": 19
+        },
+        "enrichments": {
+            "context_summary": "Pituitary apoplexy: sudden tumor hemorrhage causing severe headache, visual loss, nausea, confusion, treated emergently with steroids and surgery."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Diagnosis where blood tests and CT/MRI imaging detect pituitary adenoma.]\nBlood tests.Blood tests can show whether your body has too much or too little of certain hormones.\nFor some hormones, blood test results that show too much of the hormone may be all that's needed for your health care provider to diagnose a pituitary adenoma.\nCTscan.A computed tomography scan, also called aCTscan, is a type of imaging test that combines a series of X-rays to create cross-sectional images.MRIscans are used more often thanCTscans to detect and diagnose pituitary tumors.\nBut aCTscan may be helpful in planning surgery if your health care provider tells you that a pituitary tumor must be removed.\nFor other hormones, such as cortisol, a blood test result that shows too much of the hormone may need to be followed by other tests.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Diagnosis",
+            "subsection": 101,
+            "chunk_id": 20
+        },
+        "enrichments": {
+            "context_summary": "This covers Diagnosis where blood tests and CT/MRI imaging detect pituitary adenoma."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Diagnosis where MRI imaging detects pituitary tumors, revealing size, location, and hormone activity.]\nThose tests can show if the earlier result was caused by a pituitary adenoma or by another health concern.\nMRIscan.A magnetic resonance imaging scan, also called anMRIscan, is a test that uses a magnetic field and computer-generated radio waves to create detailed images of the body's organs and tissues.\nAnMRIof the brain can help detect a pituitary tumor and show its location and size.\nPituitary tumors often aren't noticed or aren't detected.\nIn many cases, that's because the symptoms caused by pituitary tumors that make hormones, called functioning adenomas, and large tumors, called macroadenomas, are similar to those of other medical conditions.\nIt's also because they grow very slowly over time.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Diagnosis",
+            "subsection": 101,
+            "chunk_id": 21
+        },
+        "enrichments": {
+            "context_summary": "This covers Diagnosis where MRI imaging detects pituitary tumors, revealing size, location, and hormone activity."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Diagnosis where nonfunctioning pituitary microadenomas are incidentally detected via imaging and hormone testing.]\nSmall pituitary tumors that don't make hormones, called nonfunctioning microadenomas, often don't cause symptoms.\nIf they are detected, it's typically because of an imaging exam, such as anMRIor aCTscan, that's done for another reason.\nResults that show hormone levels are too low need to be followed with other tests, usually imaging exams, to see if a pituitary adenoma may be the cause of those test results.\nTo detect and diagnose a pituitary tumor, your health care provider will likely talk with you about your personal and family medical history and do a physical exam.\nTesting to detect a pituitary tumor also may include:\nUrine tests.A urine test may be used to help diagnose a pituitary adenoma that's making too much of the hormoneACTH.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Diagnosis",
+            "subsection": 101,
+            "chunk_id": 22
+        },
+        "enrichments": {
+            "context_summary": "This covers Diagnosis where nonfunctioning pituitary microadenomas are incidentally detected via imaging and hormone testing."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Diagnosis where excess ACTH causes Cushing disease and vision testing detects pituitary tumor effects.]\nToo muchACTHleads to too much cortisol in the body and causes Cushing disease.\nVision testing.A pituitary tumor can affect eyesight, especially side vision, also called peripheral vision.\nTesting your eyes to check how well you can see may help your health care provider decide if other tests may be needed to detect a pituitary tumor.\nYour health care provider may refer you to a specialist in hormone disorders, called an endocrinologist, for more testing.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Diagnosis",
+            "subsection": 101,
+            "chunk_id": 23
+        },
+        "enrichments": {
+            "context_summary": "This covers Diagnosis where excess ACTH causes Cushing disease and vision testing detects pituitary tumor effects."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where pituitary adenoma management uses surgery, medication, or radiation with a multidisciplinary team.]\nAvoid more damage to the pituitary gland and restore its regular function.\nBrain surgeon, also called a neurosurgeon.\nHormone disorder specialist, also called an endocrinologist.\nIf a pituitary adenoma needs treatment, it may include surgery to remove the tumor.\nMedication or radiation therapy also might be used to treat a pituitary adenoma.\nTreatment involves a team of medical experts.\nThe team may include a:\nMany pituitary adenomas don't need treatment.\nThey are not cancer, so if they don't cause symptoms, simply watching them over time may be a good approach.\nIf treatment is needed, the specific treatment depends on the tumor type, size, location and growth over time.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": 101,
+            "chunk_id": 24
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where pituitary adenoma management uses surgery, medication, or radiation with a multidisciplinary team."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where hormone imbalance from pituitary tumors is corrected by surgery, radiation, and hormone normalization.]\nIf a tumor is causing too much or too little of certain hormones in the body, that also affects the treatment.\nYour age and overall health play a role in treatment planning too.\nNose and sinus surgeon, also called anENTsurgeon.\nRadiation therapy specialist, also called a radiation oncologist.\nReturn hormone levels to a healthy range.\nReverse symptoms caused by tumor pressure or prevent them from getting worse.\nThe goal of treatment is to:",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": 101,
+            "chunk_id": 25
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where hormone imbalance from pituitary tumors is corrected by surgery, radiation, and hormone normalization."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where surgical resection of pituitary adenoma relieves hormone excess, pressure, and visual deficits.]\nCauses other symptoms, such as headache or facial pain.\nCauses the body to make too much of some hormones.\nLowers hormone levels in the body due to pressure on the pituitary gland.\nPresses on the optic nerves and limits eyesight.\nResults after surgery typically depend on the adenoma type, its size and location, and whether the tumor has grown into tissues around it.\nSurgeries to remove a pituitary tumor include endoscopic transnasal transsphenoidal surgery and craniotomy.\nSurgery to treat a pituitary tumor involves removing the tumor.\nThis is sometimes called a tumor resection.\nA surgeon may suggest surgery if a pituitary adenoma:",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Surgery",
+            "chunk_id": 26
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where surgical resection of pituitary adenoma relieves hormone excess, pressure, and visual deficits."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where transnasal transsphenoidal endoscopic surgery removes pituitary adenomas without external incisions.]\nDuring the surgery, a surgeon \u00e2\u20ac\u201d typically a neurosurgeon partnering with a nose and sinus surgeon \u00e2\u20ac\u201d removes the adenoma through the nose and sinuses.\nThe surgery doesn't require an external cut, also called an incision.\nIt does not affect other parts of the brain.\nThe surgery doesn't cause a scar that you can see.\nIn transnasal transsphenoidal endoscopic surgery, a surgical instrument is placed through the nostril and alongside the nasal septum to access a pituitary tumor.\nLarge macroadenomas may be hard to remove with this surgery.\nThat's particularly true if a macroadenoma has spread to nearby nerves, blood vessels or other parts of the brain.\nThis surgery also is called adenomectomy.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Endoscopic transnasal transsphenoidal surgery",
+            "chunk_id": 27
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where transnasal transsphenoidal endoscopic surgery removes pituitary adenomas without external incisions."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where adenomectomy removes pituitary adenoma.]\nThis surgery also is called adenomectomy.\nIt's the most common surgery used to remove a pituitary adenoma.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Endoscopic transnasal transsphenoidal surgery",
+            "chunk_id": 28
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where adenomectomy removes pituitary adenoma."
+        }
+    },
+
+    {
+        "page_content": "[Context: This covers Treatment where transcranial surgery, also called a craniotomy, is used less often than transnasal surgery for pituitary tumors.]\nTranscranial surgery also is called a craniotomy.\nIt is used less often than endoscopic transnasal transsphenoidal surgery for pituitary tumors.\nBleeding.\nBrain injury.\nDamage to the pituitary gland.\nDouble vision or loss of vision.\nTranscranial surgery and transnasal surgery are generally safe procedures, but complications can include infection, reaction to anesthesia, and temporary headache.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Transcranial surgery",
+            "chunk_id": 29
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where transcranial surgery (craniotomy) details and general surgical risks are described."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where transcranial surgery removes large macroadenomas via an upper skull scalp incision for better access and visualization.]\nThis surgery makes it easier to reach and remove large macroadenomas or pituitary tumors that have spread to nearby nerves or brain tissue.\nIt also makes it easier for the surgeon to see the extent of the tumor, as well as the parts of the brain around it.\nDuring transcranial surgery, the surgeon removes the tumor through the upper part of the skull through a cut in the scalp.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Transcranial surgery",
+            "chunk_id": 30
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where transcranial surgery removes large macroadenomas via an upper skull scalp incision for better access and visualization."
+        }
+    },
+
+    {
+        "page_content": "[Context: This covers Treatment where pituitary tumor surgery can damage the gland, causing diabetes insipidus via vasopressin loss.]\nIf your health care provider suggests surgery to treat a pituitary tumor, ask about which surgery is right for you.\nTalk about the possible complications, risks and side effects.\nAsk what you can expect during recovery.\nSurgery to remove a pituitary tumor might damage the pituitary gland.\nThat can limit its ability to make hormones, leading to other medical problems including diabetes insipidus.\nThis condition happens when the pituitary gland cannot make enough of the hormone vasopressin.\nThat hormone is made in the back of the gland, an area called the posterior pituitary.\nDiabetes insipidus causes the body's fluids to go out of balance, which then causes the body to make large amounts of urine.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Diabetes insipidus",
+            "chunk_id": 31
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where pituitary tumor surgery can damage the gland, causing diabetes insipidus via vasopressin loss."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where diabetes insipidus after pituitary tumor removal is managed with vasopressin.]\nThat can cause extreme thirst and raise the risk of dehydration.\nDiabetes insipidus after surgery to remove a pituitary tumor usually is short term.\nIt typically goes away without treatment within a few days.\nIf diabetes insipidus lasts longer than that, treatment with a manufactured form of vasopressin may be used.\nThe condition often goes away after several weeks or months.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Diabetes insipidus",
+            "chunk_id": 32
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where diabetes insipidus after pituitary tumor removal is managed with vasopressin."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where radiation therapy for pituitary adenomas is evaluated, with delayed benefits, side effects, and long-term follow-up.]\nA radiation oncologist evaluates your condition and talks with you about the benefits and risks of radiation therapy for your situation.\nIt usually takes months to years to see the maximum benefit of radiation therapy for pituitary adenomas.\nSide effects and complications from radiation therapy usually don't show up right away either.\nIt is important to have regular long-term follow-up care to detect any hormone problems that may happen due to radiation therapy.\nCauses symptoms that medications don't relieve.\nComes back after surgery.\nDamage to healthy tissue near the pituitary gland.\nDamage to other nerves close to the pituitary gland.\nDamage to the pituitary gland that limits its ability to make hormones.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 33
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where radiation therapy for pituitary adenomas is evaluated, with delayed benefits, side effects, and long-term follow-up."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where external beam radiation and IMRT deliver fractionated, shaped doses to pituitary tumors, reducing side effects.]\nExternal beam radiation.This method also is called fractionated radiation therapy.\nIt delivers radiation in small amounts over time.\nA series of treatments usually is done five times a week for 4 to 6 weeks.\nIntensity modulated radiation therapy.This type of radiation therapy, also called IMRT, uses a computer that allows the beams to be shaped to surround the tumor from many angles.\nThe strength of the beams can be limited.\nThat lowers the risk of side effects on healthy tissue.\nIsn't completely removed with surgery.\nMethods of radiation therapy that can be used to treat pituitary tumors include:\nPotential side effects and complications of radiation therapy for pituitary adenomas can include:",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 34
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where external beam radiation and IMRT deliver fractionated, shaped doses to pituitary tumors, reducing side effects."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where proton beam therapy targets pituitary adenomas, delivering energy precisely to reduce healthy tissue damage.]\nProton beam therapy.Another radiation option, proton beam therapy uses positively charged ions, called protons, to target tumors.\nProton beams stop after releasing their energy within the tumor.\nThis means the beams can be controlled to target a pituitary adenoma with less risk of side effects in healthy tissue.\nThis type of radiation therapy requires special equipment.\nIt isn't widely available.\nRadiation therapy can be helpful if a pituitary tumor:\nRadiation therapy uses high-energy sources of radiation to treat pituitary tumors.\nRadiation therapy can be used after surgery.\nOr it can be used alone if surgery isn't an option.\nSlightly increased risk of developing a brain tumor.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 35
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where proton beam therapy targets pituitary adenomas, delivering energy precisely to reduce healthy tissue damage."
+        }
+    },
+    {
+        "page_content": "[Context: Stereotactic radiosurgery for pituitary adenomas: precise, single high-dose radiation with imaging guidance, minimal healthy tissue exposure, aims to control growth or hormone secretion]\nStereotactic radiosurgery.Often delivered as a single high dose, this type of radiation therapy precisely focuses radiation beams on the tumor.\nAlthough the word \"surgery\" is in its name, no cut into the skin is needed.\nIt delivers radiation beams the size and shape of the tumor into the tumor with the aid of brain-imaging techniques.\nThis requires attaching a head frame to the skull.\nThe frame is removed right after treatment.\nLittle radiation comes in contact with healthy tissue near the tumor.\nThat lowers the risk of damage to the healthy tissue.\nThe goal of radiation therapy for pituitary adenomas is to control adenoma growth or to stop the adenoma from making hormones.\nVision changes due to damage to the optic nerves.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 36
+        },
+        "enrichments": {
+            "context_summary": "Stereotactic radiosurgery for pituitary adenomas: precise, single high-dose radiation with imaging guidance, minimal healthy tissue exposure, aims to control growth or hormone secretion"
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where medications lower hormone production and shrink pituitary adenomas.]\nTreatment with medications can be useful for the management of pituitary adenomas.\nThey can help lower the amount of hormones the body makes due to a tumor.\nSome medications also can shrink certain types of pituitary tumors.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Medications",
+            "chunk_id": 37
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where medications lower hormone production and shrink pituitary adenomas."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where dopamine agonists reduce prolactin, shrink adenomas, and cause dizziness, mood changes, and impulse control disorders.]\nBromocriptine (Parlodel, Cycloset).\nCabergoline.\nDizziness.\nHeadache.\nMood disorders, including depression.\nPossible side effects include:\nSome people develop compulsive behaviors, such as problems with gambling, while taking these medications.\nThose behaviors also are called impulse control disorders.\nThe following medications are used to lower the amount of prolactin a pituitary adenoma makes.\nThey also can often shrink the tumor.\nWeakness.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Pituitary tumors that make prolactin",
+            "chunk_id": 38
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where dopamine agonists reduce prolactin, shrink adenomas, and cause dizziness, mood changes, and impulse control disorders."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where mifepristone blocks cortisol effects in Cushing disease with diabetes]\nAnother medication called mifepristone (Korlym, Mifeprex) can be used for people with Cushing disease who have type 2 diabetes or glucose intolerance.\nMifepristone doesn't lower the amount of cortisol the body makes.\nInstead, it blocks the effects of cortisol on the body's tissues.\nDiarrhea.\nHeadache.\nHeavy vaginal bleeding.\nHigh blood sugar.\nKetoconazole.\nMetyrapone (Metopirone).\nNausea.\nOsilodrostat (Isturisa).\nPossible side effects of these medications include a heart problem that can lead to a serious heartbeat irregularity.\nSide effects of mifepristone include:\nSide effects of pasireotide include:\nStomach pain.\nThe medication pasireotide (Signifor) works by lowering the amount ofACTHa pituitary adenoma makes.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Pituitary tumors that make adrenocorticotropic hormone",
+            "chunk_id": 39
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where mifepristone blocks cortisol effects in Cushing disease with diabetes"
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where pasireotide is used as second-line therapy for ACTH-secreting pituitary adenomas to reduce cortisol.]\nIt's taken as a shot twice a day.\nProviders typically suggest pasireotide when surgery to remove an adenoma doesn't work.\nIt also may be used when an adenoma can't be removed with surgery.\nTiredness.\nTumors that make adrenocorticotropic hormone, also calledACTH, cause the body to make too much cortisol.\nThat condition is known as Cushing disease.\nMedications that can lower the amount of cortisol the body makes include:\nWeakness.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Pituitary tumors that make adrenocorticotropic hormone",
+            "chunk_id": 40
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where pasireotide is used as second-line therapy for ACTH-secreting pituitary adenomas to reduce cortisol."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where somatostatin analogs lower growth hormone, shrink adenomas, and pegvisomant blocks GH effects.]\nDiarrhea.\nDizziness.\nGallstones.\nHeadache.\nLanreotide (Somatuline Depot).\nMany of these side effects improve over time.\nNausea and vomiting.\nOctreotide (Sandostatin).\nPain at the site of the shot.\nPegvisomant (Somavert).This medication blocks the effect of too much growth hormone on the body.\nIt's taken as a shot every day.\nThis medication may cause the side effect of liver damage in some people.\nSide effects of somatostatin analogs include:\nSomatostatin analogs.This type of medication lowers the amount of growth hormone that the body makes.\nIt also may partially shrink a pituitary adenoma.\nSomatostatin analogs include:\nStomach pain.\nThese medications are given as a shot, usually every four weeks.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Pituitary tumors that make growth hormone",
+            "chunk_id": 41
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where somatostatin analogs lower growth hormone, shrink adenomas, and pegvisomant blocks GH effects."
+        }
+    },
+    {
+        "page_content": "[Context: Oral octreotide (Mycapssa) treats GH\u2011secreting pituitary adenomas post\u2011surgery, mimicking injections, may worsen diabetes.]\nA form of octreotide that can be taken in a pill, called Mycapssa, also is available.\nIt works like the forms that are given as a shot and has similar side effects.\nTwo kinds of medication can treat pituitary tumors that make growth hormone.\nProviders often prescribe these medications when surgery to remove a pituitary adenoma hasn't worked to return the amount of growth hormone in the body to a healthy level.\nWorsening diabetes.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Pituitary tumors that make growth hormone",
+            "chunk_id": 42
+        },
+        "enrichments": {
+            "context_summary": "Oral octreotide (Mycapssa) treats GH\u2011secreting pituitary adenomas post\u2011surgery, mimicking injections, may worsen diabetes."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where hormone replacement therapy restores hormone levels after pituitary adenoma or its treatment causes deficiencies.]\nThe pituitary gland controls growth, thyroid function, adrenal function, reproductive function and the balance of water in the body.\nOne or all of those can be harmed by a pituitary adenoma or by its treatment with surgery or radiation.\nThis is because of the hormone changes they can cause.\nIf your hormones fall to unhealthy levels, you may need to take hormone replacement therapy.\nThis can restore hormones to a healthy level.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Pituitary hormone replacement",
+            "chunk_id": 43
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where hormone replacement therapy restores hormone levels after pituitary adenoma or its treatment causes deficiencies."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where watchful waiting monitors pituitary adenoma growth and hormone changes.]\nIn watchful waiting \u00e2\u20ac\u201d also known as observation, expectant therapy or deferred therapy \u00e2\u20ac\u201d you might need regular follow-up tests to see if a tumor grows or if hormone levels change.\nWatchful waiting may be a choice for you if an adenoma isn't causing any symptoms or triggering other health problems.\nTalk to your health care provider about the benefits and risks of watchful waiting versus treatment in your situation.\nThere is a problem with\ninformation submitted for this request.\nReview/update the\ninformation highlighted below and resubmit the form.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Treatment",
+            "subsection": "Watchful waiting",
+            "chunk_id": 44
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where watchful waiting monitors pituitary adenoma growth and hormone changes."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Coping and support where patients are encouraged to educate themselves, share feelings, and seek support groups.]\nIt's natural for you to have questions throughout the diagnosis and treatment of a pituitary tumor.\nThe process can be overwhelming and sometimes scary.\nThat's why it's important to learn as much as you can about your condition.\nThe more you know and understand about your care, the better.\nYou might find it helpful to share your feelings with other people who are in a situation like yours.\nCheck to see if support groups for people with pituitary tumors are available in your area.\nHospitals often sponsor these groups.\nYour health care provider may be able to help you find the emotional support you need.",
+        "metadata": {
+            "tumor_type": "pituitary",
+            "section": "Coping and support",
+            "subsection": 101,
+            "chunk_id": 45
+        },
+        "enrichments": {
+            "context_summary": "This covers Coping and support where patients are encouraged to educate themselves, share feelings, and seek support groups."
+        }
+    }
+]

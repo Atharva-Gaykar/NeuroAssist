@@ -1,0 +1,254 @@
+[
+    {
+        "page_content": "[Context: This covers Overview where meningioma is a slow-growing meningeal tumor that can compress brain, nerves, vessels, often monitored.]\nOverview\nA meningioma is a tumor that grows from the membranes that surround the brain and spinal cord, called the meninges.\nA meningioma is not a brain tumor, but it may press on the nearby brain, nerves and vessels.\nMeningioma is the most common type of tumor that forms in the head.\nMost meningiomas grow very slowly.\nThey can grow over many years without causing symptoms.\nBut sometimes, their effects on nearby brain tissue, nerves or vessels may cause serious disability.\nMeningiomas occur more often in women.\nThey're often found at older ages.\nBut they can happen at any age.\nBecause most meningiomas grow slowly, often without symptoms, they do not always need treatment right away.\nInstead, they may be watched over time.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Overview",
+            "subsection": 101,
+            "chunk_id": 0
+        },
+        "enrichments": {
+            "context_summary": "This covers Overview where meningioma is a slow-growing meningeal tumor that can compress brain, nerves, vessels, often monitored."
+        }
+    },
+    {
+        "page_content": "[Context: Symptoms of meningioma: gradual vision changes, headaches, hearing loss, seizures, motor weakness]\nSymptoms\nSymptoms of a meningioma most often begin slowly.\nThey may be hard to notice at first.\nSymptoms may depend on where in the brain the meningioma is.\nRarely, it can be in the spine.\nSymptoms may include:\nChanges in vision, such as seeing double or blurring.\nHeadaches that are worse in the morning.\nHearing loss or ringing in the ears.\nMemory loss.\nLoss of smell.\nSeizures.\nWeakness in the arms or legs.\nTrouble speaking.\nMost symptoms of a meningioma come on slowly.\nBut sometimes a meningioma needs care right away.\nSeek emergency careif you have:\nSudden onset of seizures.\nSudden changes in vision or memory.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Symptoms",
+            "subsection": 101,
+            "chunk_id": 1
+        },
+        "enrichments": {
+            "context_summary": "Symptoms of meningioma: gradual vision changes, headaches, hearing loss, seizures, motor weakness"
+        }
+    },
+    {
+        "page_content": "[Context: Sudden vision or memory changes may signal meningioma, often asymptomatic and found incidentally.]\nSudden changes in vision or memory.\nMake an appointment to see your healthcare professionalif you have lasting symptoms that worry you, such as headaches that get worse over time.\nOften, because meningiomas do not cause any symptoms you notice, they are found only from imaging scans done for other reasons.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Symptoms",
+            "subsection": 101,
+            "chunk_id": 2
+        },
+        "enrichments": {
+            "context_summary": "Sudden vision or memory changes may signal meningioma, often asymptomatic and found incidentally."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Causes where meningioma arises from uncontrolled meninges cell proliferation, with childhood radiation as a known risk factor.]\nCauses\nIt isn't clear what causes a meningioma.\nExperts know that something changes some cells in the meninges.\nThe changes makes them multiply out of control.\nThis leads to a meningioma.\nBeing exposed to radiation as a child is the only known environmental risk factor for getting meningioma.\nThere's no good evidence to show that meningiomas happen because of cellphone use.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Causes",
+            "subsection": 101,
+            "chunk_id": 3
+        },
+        "enrichments": {
+            "context_summary": "This covers Causes where meningioma arises from uncontrolled meninges cell proliferation, with childhood radiation as a known risk factor."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Risk factors where radiation, female hormones, hormonal therapies, neurofibromatosis 2, and obesity increase meningioma risk.]\nRisk factors\nRisk factors for a meningioma include:\nRadiation treatment.Radiation therapy that involves the head may increase the risk of a meningioma.\nFemale hormones.Meningiomas are more common in women.\nThis might mean that female hormones may play a role.\nSome studies also have suggested a link between breast cancer and meningioma risk related to the role of hormones.\nSome research suggests that the use of oral birth control and hormone replacement therapy could raise the risk of meningioma growth.\nAn inherited nervous system condition.The rare condition neurofibromatosis 2 increases the risk of meningioma and other brain tumors.\nObesity.A high body mass index (BMI) is a risk factor for many types of cancers.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Risk factors",
+            "subsection": 101,
+            "chunk_id": 4
+        },
+        "enrichments": {
+            "context_summary": "This covers Risk factors where radiation, female hormones, hormonal therapies, neurofibromatosis 2, and obesity increase meningioma risk."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Risk factors where meningiomas are more common in obese people, mechanism unclear.]\nSeveral large studies have found that meningiomas happen more often in obese people.\nBut the link between obesity and meningiomas is not clear.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Risk factors",
+            "subsection": 101,
+            "chunk_id": 5
+        },
+        "enrichments": {
+            "context_summary": "This covers Risk factors where meningiomas are more common in obese people, mechanism unclear."
+        }
+    },
+    {
+        "page_content": "[Context: Complications of meningioma treatment via surgery and radiation causing neurocognitive deficits, seizures, and sensory changes]\nComplications\nA meningioma and its treatment can cause long-term complications.\nTreatment most often involves surgery and radiation therapy.\nComplications may include:\nTrouble focusing.\nMemory loss.\nPersonality changes.\nSeizures.\nWeakness.\nChanges in the senses.\nTrouble with language.\nYour healthcare professional can treat some complications and refer you to specialists to help you cope with other complications.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Complications",
+            "subsection": 101,
+            "chunk_id": 6
+        },
+        "enrichments": {
+            "context_summary": "Complications of meningioma treatment via surgery and radiation causing neurocognitive deficits, seizures, and sensory changes"
+        }
+    },
+    {
+        "page_content": "[Context: This covers Diagnosis where meningioma detection relies on CT imaging, subtle symptoms, and specialist referral.]\nA meningioma can be hard to diagnose because the tumor is often slow growing.\nSymptoms of a meningioma also may be subtle and thought to be other health conditions or signs of aging.\nCTscan.CTscans take X-rays that make cross-sectional images of a full picture of the brain.\nSometimes an iodine-based dye is used to make the picture easier to read.\nIf your healthcare professional suspects a meningioma, you may be referred to a doctor who specializes in conditions of the brain and spine, called a neurologist.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Diagnosis",
+            "subsection": "Meningioma",
+            "chunk_id": 7
+        },
+        "enrichments": {
+            "context_summary": "This covers Diagnosis where meningioma detection relies on CT imaging, subtle symptoms, and specialist referral."
+        }
+    },
+    {
+        "page_content": "[Context: This covers MRI scan where contrast-enhanced imaging detects meningiomas, sometimes requiring biopsy for confirmation.]\nMRIscan.With this imaging study, a magnetic field and radio waves create cross-sectional images of the structures in the brain.MRIscans provide a more detailed picture of the brain and meningiomas.\nSometimes, a sample of the tumor sent to a lab for study, called a biopsy, may be needed to rule out other types of tumors and confirm a meningioma diagnosis.\nThis contrast-enhancedMRIscan of a person's head shows a meningioma.\nThis meningioma has grown large enough to push down into the brain tissue.\nTo diagnose a meningioma, a neurologist conducts a thorough neurological exam followed by an imaging test with contrast dye, such as:",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "MRI scan",
+            "subsection": "Meningioma",
+            "chunk_id": 8
+        },
+        "enrichments": {
+            "context_summary": "This covers MRI scan where contrast-enhanced imaging detects meningiomas, sometimes requiring biopsy for confirmation."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where meningioma management depends on growth rate, size, location, age, health, and goals.]\nThe rate of growth of the tumor.\nThe size of the meningioma and where it is.\nTreatment for a meningiomx`a depends on many factors, including:\nYour age and overall health.\nYour goals for treatment.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Treatment",
+            "subsection": 101,
+            "chunk_id": 9
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where meningioma management depends on growth rate, size, location, age, health, and goals."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where monitoring and intervention decisions for meningioma are discussed]\nIf the plan is for you not to have treatment for a meningioma, you'll likely have brain scans at times to assess your meningioma and look for signs that it's growing.\nIf your healthcare provider finds that the meningioma is growing and needs to be treated, you have several treatment choices.\nNot everyone with a meningioma needs treatment right away.\nA small, slow-growing meningioma that isn't causing symptoms may not need treatment.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Treatment",
+            "subsection": "Wait-and-see approach",
+            "chunk_id": 10
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where monitoring and intervention decisions for meningioma are discussed"
+        }
+    },
+    {
+        "page_content": "[Context: Meningioma treatment: follow-up scans, surgery, stereotactic radiosurgery, or radiation based on residual tumor and growth.]\nIf no visible tumor remains,then no further treatment may be needed.\nBut you will have follow-up scans from time to time.\nIf the meningioma causes symptoms or shows signs that it's growing, your healthcare professional may suggest surgery.\nIf the tumor is benign and only a small piece remains,then your healthcare professional may suggest follow-up scans only.\nSome small leftover tumors may be treated with a form of radiation treatment called stereotactic radiosurgery.\nIf the tumor is irregular or cancer,you'll likely need radiation.\nSurgeons work to remove the entire meningioma.\nBut because a meningioma may be near fragile structures in the brain or spinal cord, it isn't always possible to remove the entire tumor.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Treatment",
+            "subsection": "Surgery",
+            "chunk_id": 11
+        },
+        "enrichments": {
+            "context_summary": "Meningioma treatment: follow-up scans, surgery, stereotactic radiosurgery, or radiation based on residual tumor and growth."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where surgical removal of meningioma is performed, highlighting risks such as infection, bleeding, and vision loss.]\nThen, surgeons remove as much of the meningioma as they can.\nSurgery may pose risks including infection and bleeding.\nThe risks of your surgery will depend on where your meningioma is.\nFor instance, surgery to remove a meningioma from around the optic nerve can lead to vision loss.\nAsk your surgeon about the risks of your surgery.\nThe type of treatment, if any, you need after surgery depends on several factors.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Treatment",
+            "subsection": "Surgery",
+            "chunk_id": 12
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where surgical removal of meningioma is performed, highlighting risks such as infection, bleeding, and vision loss."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where radiation therapy advances target meningiomas, using fractionated stereotactic radiotherapy and intensity-modulated radiation therapy to increase tumor dose and spare healthy tissue.]\nAdvances in radiation therapy increase the dose of radiation to the meningioma while giving less radiation to healthy tissue.\nRadiation therapy types for meningiomas include:\nFractionated stereotactic radiotherapy (SRT).This type gives radiation in small fractions over time, such as one treatment a day for 30 days.\nThis approach may be used for tumors too large for radiosurgery or those in an area where radiosurgery is too strong, such as near the optic nerve.\nIf the entire meningioma can't be removed surgically, your healthcare professional may suggest radiation therapy after or instead of surgery.\nIntensity-modulated radiation therapy (IMRT).This uses computer software to lower the intensity of radiation to the meningioma site.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 13
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where radiation therapy advances target meningiomas, using fractionated stereotactic radiotherapy and intensity-modulated radiation therapy to increase tumor dose and spare healthy tissue."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where proton beam radiation and stereotactic radiosurgery treat meningiomas near sensitive structures or complex shapes.]\nThis may be used for meningiomas that are near sensitive brain structures or those with a complex shape.\nProton beam radiation.This uses radioactive protons aimed right at the tumor.\nThis type lessens damage to the tissue around the tumor.\nStereotactic radiosurgery (SRS).This type of radiation treatment aims several beams of powerful radiation at a precise point.\nDespite its name, radiosurgery doesn't involve scalpels or cuts.\nRadiosurgery most often is done in an outpatient setting in a few hours.\nRadiosurgery may be a choice for people with meningiomas that can't be removed with conventional surgery or for meningiomas that come back despite treatment.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 14
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where proton beam radiation and stereotactic radiosurgery treat meningiomas near sensitive structures or complex shapes."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where radiation therapy aims to destroy residual meningioma cells using high-powered energy beams.]\nThe goal of radiation therapy is to destroy any meningioma cells that are left and reduce the chance that the meningioma may come back.\nRadiation therapy uses a large machine to aim high-powered energy beams at the tumor cells.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Treatment",
+            "subsection": "Radiation therapy",
+            "chunk_id": 15
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where radiation therapy aims to destroy residual meningioma cells using high-powered energy beams."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Treatment where chemotherapy is rarely used for meningiomas, considered only after surgery and radiation fail, with research into targeted therapies.]\nMedicine therapy, also called chemotherapy, rarely is used to treat meningiomas.\nBut it may be used when the meningioma doesn't respond to surgery and radiation.\nThere isn't a widely used chemotherapy approach to the treatment of meningiomas.\nBut researchers are studying other targeted approaches.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Treatment",
+            "subsection": "Medicines",
+            "chunk_id": 16
+        },
+        "enrichments": {
+            "context_summary": "This covers Treatment where chemotherapy is rarely used for meningiomas, considered only after surgery and radiation fail, with research into targeted therapies."
+        }
+    },
+    {
+        "page_content": "[Context: Alternative medicine for meningioma: acupuncture, hypnosis, massage, meditation, music therapy, relaxation exercises relieve side effects and stress, not tumor.]\nAcupuncture.\nAlternative medicine therapies that may be helpful include:\nAlternative medicine treatments don't treat meningioma.\nBut some may help give relief from treatment side effects.\nOr they might help you cope with the stress of having a meningioma.\nDiscuss choices with your healthcare professional.\nHypnosis.\nMassage.\nMeditation.\nMusic therapy.\nRelaxation exercises.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Alternative medicine",
+            "subsection": 101,
+            "chunk_id": 17
+        },
+        "enrichments": {
+            "context_summary": "Alternative medicine for meningioma: acupuncture, hypnosis, massage, meditation, music therapy, relaxation exercises relieve side effects and stress, not tumor."
+        }
+    },
+    {
+        "page_content": "[Context: This covers Coping and support where meningioma diagnosis disrupts life; coping via support network, professionals, spirituality, and groups.]\nA meningioma diagnosis can disrupt your life.\nYou have visits to doctors and surgeons as you prepare for your treatment.\nTo help you cope, try to:\nBuild a support network.It can help to have someone to talk with about your feelings.\nOther people who can support you include social workers and psychologists.\nAsk your healthcare provider to refer you.\nTalk with your pastor, rabbi or other spiritual leader.\nIt also can help to talk with other people with meningiomas.\nThink about joining a support group, either in person or online.\nAsk your healthcare team about brain tumor or meningioma support groups in your area.\nOr contact the American Brain Tumor Association.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Coping and support",
+            "subsection": 101,
+            "chunk_id": 18
+        },
+        "enrichments": {
+            "context_summary": "This covers Coping and support where meningioma diagnosis disrupts life; coping via support network, professionals, spirituality, and groups."
+        }
+    },
+    {
+        "page_content": "[Context: Coping and support for meningioma patients: resources, stress reduction, healthy lifestyle to aid recovery]\nOr contact the American Brain Tumor Association.\nLearn all you can about meningiomas.Ask your healthcare team where you can learn more about meningiomas and your treatment options.\nVisit your local library and ask a librarian to help you find good sources of information, including online sources.\nReduce stress in your life.\nFocus on what matters to you.\nThese measures won't cure your meningioma.\nBut they may help you feel better as you recover from surgery or help you cope during radiation therapy.\nTake care of yourself.Eat a diet rich in fruits and vegetables.\nGet moderate exercise daily if your healthcare professional OKs it.\nGet enough sleep to feel rested.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Coping and support",
+            "subsection": 101,
+            "chunk_id": 19
+        },
+        "enrichments": {
+            "context_summary": "Coping and support for meningioma patients: resources, stress reduction, healthy lifestyle to aid recovery"
+        }
+    },
+    {
+        "page_content": "[Context: This covers Coping and support where sleep hygiene, question preparation, and patient education improve treatment decisions.]\nGet enough sleep to feel rested.\nWrite down questions to ask at your next appointment with your healthcare professional.\nThe more you know about your condition, the better able you'll be to decide about your treatment.",
+        "metadata": {
+            "tumor_type": "meningioma",
+            "section": "Coping and support",
+            "subsection": 101,
+            "chunk_id": 20
+        },
+        "enrichments": {
+            "context_summary": "This covers Coping and support where sleep hygiene, question preparation, and patient education improve treatment decisions."
+        }
+    }
+]

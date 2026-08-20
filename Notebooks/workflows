@@ -1,0 +1,116 @@
+flowchart TD
+    U["User"]
+
+    subgraph AUTH["Authentication Layer"]
+        REG["POST /api/register"]
+        SIGN["POST /api/sign_in\nnew MRI / existing MRI"]
+        JWT["JWT Token"]
+    end
+
+    subgraph STORAGE["Cloud Storage"]
+        CLOUDINARY["Cloudinary\nMRI Image Storage"]
+    end
+
+    subgraph CNN["CNN Tumor Detection"]
+        CNNM["TensorFlow CNN Model"]
+        CLS["Glioma / Meningioma\nPituitary / No Tumor\n+ Confidence Score"]
+    end
+
+    subgraph DB["PostgreSQL - Neon.tech"]
+        PT["patients table\nusername, email, password\ncity, state, country\ntumor_type, mri_image"]
+        CM["chat_messages table\npatient_id, patient_query\nbot_response, timestamp"]
+    end
+
+    subgraph FASTAPI["FastAPI Backend"]
+        CHAT["POST /api/chat/message"]
+        HIST["GET /api/chat/history"]
+        INFO["GET /api/patient/info"]
+    end
+
+    subgraph PIPELINE["RAG Pipeline - BotPipeline.run()"]
+
+        subgraph HISTORY["HistoryAwareRetrieverMixin"]
+            REFORM["LLM\nReformulates query\nusing chat history"]
+        end
+
+        subgraph ROUTER["QueryRouter"]
+            GROQ["Groq Agent\nStructured Output\nRouterOutput"]
+            R1["vectorstore_merged\nstore_id = 1"]
+            R2["serp\nstore_id = 2"]
+            R3["both\nstore_id = 1 and 2"]
+        end
+
+        subgraph KB["KnowledgeBaseRetriever"]
+            DENSE["Dense Retrieval\nMiniLM Embeddings\nHF Hub Endpoint"]
+            SPARSE["Sparse Retrieval\nBM25 Encoder"]
+            HYBRID["Pinecone Hybrid Search\nFiltered by tumor_type"]
+            META["MetadataHandler\nStrips metadata prefix\nbefore reranking"]
+        end
+
+        subgraph SERP["SerpApiRetriever"]
+            SERPAPI["SerpAPI\nGoogle Search\nLocation-aware\ncity, state, country"]
+            SERPDOC["serp_results_to_documents\nLangChain Documents"]
+        end
+
+        RERANK["Cohere Reranker\nrerank-english-v3.0\nTop-N Selection\nDeduplication"]
+    end
+
+    subgraph LLM["LLM Layer"]
+        PROMPT["Medical Assistant Prompt\n+ RAG Context"]
+        LLM["LLAMA"]
+        MD["Markdown to HTML\nbot_reply"]
+    end
+
+    U -->|"Register with MRI"| REG
+    U -->|"Sign In"| SIGN
+
+    REG -->|"MRI bytes"| CLOUDINARY
+    REG -->|"MRI bytes"| CNNM
+    SIGN -->|"new MRI option"| CLOUDINARY
+    SIGN -->|"new MRI option"| CNNM
+
+    CNNM --> CLS
+    CLS -->|"tumor_type"| PT
+    REG -->|"Create patient record"| PT
+    SIGN -->|"Update mri_image + tumor_type"| PT
+    REG --> JWT
+    SIGN --> JWT
+    JWT -->|"Bearer Token"| U
+
+    U -->|"Bearer Token + query"| CHAT
+    CHAT -->|"get_chat_history limit=2"| CM
+    CM -->|"HumanMessage + AIMessage"| REFORM
+    REFORM -->|"standalone question"| GROQ
+
+    GROQ --> R1
+    GROQ --> R2
+    GROQ --> R3
+
+    R1 --> DENSE
+    R1 --> SPARSE
+    R3 --> DENSE
+    R3 --> SPARSE
+    R2 --> SERPAPI
+    R3 --> SERPAPI
+
+    DENSE --> HYBRID
+    SPARSE --> HYBRID
+    SERPAPI --> SERPDOC
+
+    HYBRID --> META
+    META --> RERANK
+    SERPDOC --> RERANK
+
+    RERANK -->|"Top context blocks\nwith relevance scores"| PROMPT
+    PROMPT --> GEMINI
+    LLM --> MD
+    MD -->|"add_chat_message"| CM
+    MD -->|"html_response + sources count"| U
+
+    U -->|"Authenticated"| HIST
+    HIST -->|"get_chat_history all"| CM
+    CM -->|"role + content + timestamp"| U
+
+    U -->|"Authenticated"| INFO
+    INFO -->|"Read profile"| PT
+    PT -->|"id, username, email, city, tumor_type"| U
