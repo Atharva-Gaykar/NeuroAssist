@@ -12,7 +12,8 @@ import re
 # app
 from app.tools.embeddings import embeddings
 from langchain_community.retrievers import PineconeHybridSearchRetriever
-from core.config import settings
+# app
+from app.core.config import settings
 from langchain.tools import ToolRuntime
 # app
 from app.tools.reranker import reranker
@@ -21,7 +22,7 @@ from app.agents.tool_output_compresser_agent import tool_output_compresser_agent
 from langchain_core.tools import tool
 
 # app
-from app.agents.research_agent import base_chat_llm
+
 from app.tools.tools_input_schema import VectorSearchInput
 
 
@@ -225,6 +226,8 @@ async def search_vector_db(query: str, runtime: ToolRuntime) -> str:
     Search the internal medical knowledge base for established facts about
     brain tumor symptoms, causes, diagnosis, treatment, and prognosis.
     """
+
+    from app.agents.research_agent import base_chat_llm
     config_dict = runtime.config or {}
     configurable = config_dict.get("configurable", {})
 

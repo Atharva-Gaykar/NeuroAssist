@@ -1,6 +1,6 @@
 from langchain_core.messages import HumanMessage
 from langchain_core.runnables import RunnableConfig
-from app.agents import research_agent
+from app.agents.research_agent import research_agent
 from app.aigraph.state import NeuroAssistState
 
 async def research_node(state: NeuroAssistState, config: RunnableConfig):

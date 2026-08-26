@@ -1,11 +1,11 @@
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableConfig
-from app.agents import query_rewrite_agent
+from app.agents.query_rewrite_agent import query_rewrite_agent
 from app.aigraph.state import NeuroAssistState
-from app.prompts.query_rewrite_agent_prompt import query_rewrite_agent_system_prompt
+from app.prompts.query_rewrite_agent_prompt import query_rewrite_prompt
 from app.utils.output_parser import CleanQueryParser
 
-query_rewrite_chain = query_rewrite_agent_system_prompt | query_rewrite_agent| CleanQueryParser() 
+query_rewrite_chain = query_rewrite_prompt | query_rewrite_agent| CleanQueryParser() 
 
 async def query_rewrite_node(state: NeuroAssistState, config: RunnableConfig):
     chat_history = state["chat_agent_messages"]

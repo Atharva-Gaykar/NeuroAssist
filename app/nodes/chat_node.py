@@ -1,7 +1,8 @@
 from langchain_core.messages import AIMessage
 from langchain_core.runnables import RunnableConfig
 from langmem.short_term import summarize_messages   # import may vary depending on your version
-from app.agents import chat_agent, chat_sumarising_agent
+from app.agents.chat_agent  import chat_agent
+from app.agents.chat_sumarising_agent import chat_sumarising_agent
 from app.prompts.chat_agent_prompt import chat_agent_prompt
 from app.prompts.message_summarising_agent_prompt import message_summarising_agent_prompt
 from app.aigraph.state import NeuroAssistState
