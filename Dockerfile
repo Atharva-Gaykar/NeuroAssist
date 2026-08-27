@@ -10,6 +10,10 @@ COPY requirements.txt .
 # Install the dependencies
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
+
+
+RUN python -m spacy download en_core_web_lg
+
 # Set up a new user named "user" with user ID 1000
 RUN useradd -m -u 1000 user
 
