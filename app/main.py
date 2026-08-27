@@ -17,10 +17,7 @@ import markdown
 from sqlalchemy.ext.asyncio import AsyncSession
 from app.database.connection import SessionLocal, get_db
 from app.core.auth import verify_token, create_access_token, hash_password, verify_password,get_current_patient
-from app.database.crud import (
-    get_patient_by_email,
-    create_patient,
-)
+from app.database.crud import ( get_patient_by_email,create_patient)
 import uuid
 from app.database.models import Patient
 from pathlib import Path
@@ -36,10 +33,6 @@ from collections.abc import AsyncIterable
 from app.aigraph.graph import get_compiled_graph
 
 
-
-
-print("all imports done")
-
 cloudinary.config(
     cloud_name=settings.CLOUDINARY_CLOUD_NAME,
     api_key=settings.CLOUDINARY_API_KEY,
@@ -47,10 +40,6 @@ cloudinary.config(
 )
 
 
-
-#Used for local testing
-# UPLOAD_FOLDER = "static/uploads"
-# os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 
 logger = logging.getLogger(__name__)
@@ -91,7 +80,7 @@ app.add_middleware(
 
 
 class ChatRequest(BaseModel):
-    query: str
+    message: str
 
 class TokenResponse(BaseModel):
     success: bool
@@ -467,38 +456,16 @@ async def chat_message(
 
 
 
+if __name__ == "__main__":
+    import sys
+    import asyncio
 
-             
+    # Apply the event loop policy fix for Windows execution
+    if sys.platform == "win32":
+        asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
-         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    except Exception as e:
-        print(f"[CHAT ERROR] {e}")
-        raise HTTPException(status_code=500, detail="Error generating response")
-
-
-
-
-#used for local testing, not needed in production or HF Spaces since they handle server startup
-# if __name__ == "__main__":
-#     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-#     print(f" API Running on http://127.0.0.1:8500 | Device: {device}")
-#     uvicorn.run(app, host="127.0.0.1", port=8500)
+    # Point Uvicorn to your actual module path (app.testgraph) instead of "main"
+    uvicorn.run("app.main:app", host="127.0.0.1", port=8500)
 
 
 

@@ -1,7 +1,7 @@
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, delete
 from datetime import datetime
-from app.database.models import Patient, ChatMessage
+from app.database.models import Patient
 
 async def get_patient_by_email(
     db: AsyncSession,
@@ -26,7 +26,7 @@ async def create_patient(
     new_patient = Patient(
         username=patient_data['username'],
         email=patient_data['email'],
-        password_hash=patient_data['password'],  # already hashed upstream
+        password_hash=patient_data['password'], 
         city=patient_data['city'],
         state=patient_data['state'],
         country=patient_data['country'],

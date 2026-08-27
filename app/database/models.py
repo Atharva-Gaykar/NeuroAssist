@@ -9,10 +9,6 @@ import uuid
 
 
 Base=declarative_base()
-
- # adjust import to your actual Base
-
-
 class Patient(Base):
     __tablename__ = "patients"
 
@@ -38,14 +34,16 @@ class Patient(Base):
 
 
 
-def create_tables():
-    Base.metadata.create_all(bind=engine)
 
+async def create_tables():
+    async with engine.begin() as conn:
+        await conn.run_sync(Base.metadata.create_all)
+
+
+import asyncio
 
 # if __name__ == "__main__":
-#     create_tables()
+#     asyncio.run(create_tables())
 #     print("Tables created successfully")
-
-
 
 
