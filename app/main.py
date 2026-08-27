@@ -30,8 +30,13 @@ from app.CNN.cnnapi import process_tumor_detection
 from app.database.connection import pool
 from langgraph.checkpoint.postgres.aio import AsyncPostgresSaver
 from collections.abc import AsyncIterable
+from slowapi import Limiter
 from app.aigraph.graph import get_compiled_graph
-
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
+from fastapi.responses import JSONResponse
+from app.core.schemas import TokenResponse, ChatRequest
+from app.aigraph.helpers import get_graph_input
 
 cloudinary.config(
     cloud_name=settings.CLOUDINARY_CLOUD_NAME,
@@ -41,8 +46,9 @@ cloudinary.config(
 
 
 
-
 logger = logging.getLogger(__name__)
+
+limiter=Limiter(key_func=get_remote_address)
 
 
 @asynccontextmanager
@@ -53,7 +59,21 @@ async def lifespan(app: FastAPI):
 
     # Initialize the graph with a checkpointer
     checkpointer = AsyncPostgresSaver(pool)
+
+
+    # Initialize the graph
     app.state.graph = get_compiled_graph(checkpointer)
+
+    # To use rate limiting feature
+    app.state.limiter=limiter
+
+
+     # To use rate limiting feature
+    app.add_exception_handler(
+        RateLimitExceeded,
+        lambda request, exc: JSONResponse(status_code=429, content={"detail": "Rate limit exceeded"}),
+    )
+
 
     yield
 
@@ -62,7 +82,9 @@ async def lifespan(app: FastAPI):
 
 
 
+
 app = FastAPI(title="NeuroAssist", lifespan=lifespan)
+
 
 # To configure CORS (Cross-Origin Resource Sharing)
 app.add_middleware(
@@ -74,65 +96,18 @@ app.add_middleware(
 )
 
 
-# app.mount("/static", StaticFiles(directory="static"), name="static")
 
 
 
 
-class ChatRequest(BaseModel):
-    message: str
-
-class TokenResponse(BaseModel):
-    success: bool
-    token: str
-    message: str
-
-
-
-def get_graph_input(
-    patient: Patient,
-    request: ChatRequest
-):
-    return {
-        "tumor_type": patient.tumor_type,
-        "city": patient.city,
-        "state": patient.state,
-        "country": patient.country,
-
-        "chat_agent_messages": [
-            HumanMessage(
-                content=request.message
-            )
-        ],
-
-        "research_agent_messages": [],
-    }
-
-async def initialize_patient_graph_state(graph, patient):
-    config = {
-        "configurable": {
-            "user_id": patient.id,
-            "thread_id": str(patient.user_chat_thread),
-        }
-    }
-
-    await graph.aupdate_state(
-        config,
-        {
-            "tumor_type": patient.tumor_type,
-            "city": patient.city,
-            "state": patient.state,
-            "country": patient.country,
-            "chat_agent_messages": [],
-            "research_agent_messages": [],
-        },
-    )
-
-    return config
 # User registration endpoint
 
 
+
+
+
 @app.post("/api/register")
+@limiter.limit("2/minute")
 async def register_patient(
     username: str = Form(...),
     email: str = Form(...),
@@ -268,6 +243,7 @@ async def register_patient(
 
 # sign_in Endpoint
 @app.post("/api/signin")
+@limiter.limit("2/minute")
 async def sign_in(
     email: str = Form(...),
     password: str = Form(...),
@@ -281,7 +257,7 @@ async def sign_in(
             detail="Invalid email or password"
         )
 
-    if not verify_password(password, user.password):
+    if not verify_password(password, user.password_hash):
         raise HTTPException(
             status_code=401,
             detail="Invalid email or password"
@@ -328,6 +304,7 @@ async def get_patient_profile(patient: Patient = Depends(get_current_patient)):
     "/api/chat/message",
     response_class=EventSourceResponse
 )
+@limiter.limit("3/second")
 async def chat_message(
     chat_request: ChatRequest,
     patient: Patient = Depends(get_current_patient),
@@ -370,7 +347,7 @@ async def chat_message(
     config = {
         "configurable": {
             "user_id": patient.id,
-            "thread_id": patient_chat_thread,
+            "thread_id": str(patient_chat_thread),
         }
     }
 
