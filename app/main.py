@@ -433,16 +433,16 @@ async def chat_message(
 
 
 
-if __name__ == "__main__":
-    import sys
-    import asyncio
+# if __name__ == "__main__":
+#     import sys
+#     import asyncio
 
-    # Apply the event loop policy fix for Windows execution
-    if sys.platform == "win32":
-        asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+#     # Apply the event loop policy fix for Windows execution
+#     if sys.platform == "win32":
+#         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
-    # Point Uvicorn to your actual module path (app.testgraph) instead of "main"
-    uvicorn.run("app.main:app", host="127.0.0.1", port=8500)
+#     # Point Uvicorn to your actual module path (app.testgraph) instead of "main"
+#     uvicorn.run("app.main:app", host="127.0.0.1", port=8500)
 
 
 
