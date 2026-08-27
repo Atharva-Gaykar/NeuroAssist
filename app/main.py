@@ -36,7 +36,7 @@ from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from fastapi.responses import JSONResponse
 from app.core.schemas import TokenResponse, ChatRequest
-from app.aigraph.helpers import get_graph_input
+from app.aigraph.helpers import get_graph_input, initialize_patient_graph_state
 
 cloudinary.config(
     cloud_name=settings.CLOUDINARY_CLOUD_NAME,
@@ -109,6 +109,7 @@ app.add_middleware(
 @app.post("/api/register")
 @limiter.limit("2/minute")
 async def register_patient(
+    request: Request,
     username: str = Form(...),
     email: str = Form(...),
     password: str = Form(...),
@@ -306,10 +307,11 @@ async def get_patient_profile(patient: Patient = Depends(get_current_patient)):
 )
 @limiter.limit("3/second")
 async def chat_message(
+      request: Request,
     chat_request: ChatRequest,
     patient: Patient = Depends(get_current_patient),
     db: AsyncSession = Depends(get_db),
-    request: Request = None,
+  
 ) -> AsyncIterable[ServerSentEvent]:
 
     graph = getattr(
